@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67f94345-26c4-487e-bad1-783666e1be49" name="Default Changelist" comment="" />
+    <list default="true" id="67f94345-26c4-487e-bad1-783666e1be49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clase3/exercise3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase3/exercise3.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,23 +25,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="scala" value="11" />
+          <entry key="scala" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Scala" value="11" />
+          <entry key="Scala" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="408" />
+          <entry key="scala" value="503" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="408" />
+          <entry key="Scala" value="503" />
         </counts>
       </usages-collector>
     </session>
@@ -46,24 +49,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clase3/exercise1.scala">
+        <entry file="file://$PROJECT_DIR$/src/clase3/exercise3.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clase2/exercise1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clase2/exercise2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clase2/exercise3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/clase3/exercise2.scala">
+        <entry file="file://$PROJECT_DIR$/src/clase2/exercise4.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="210">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -86,6 +119,11 @@
         <option value="$PROJECT_DIR$/src/clase3/exercise1.scala" />
         <option value="$PROJECT_DIR$/src/clase1/Exercise4.scala" />
         <option value="$PROJECT_DIR$/src/clase3/exercise2.scala" />
+        <option value="$PROJECT_DIR$/src/clase2/exercise1.scala" />
+        <option value="$PROJECT_DIR$/src/clase3/exercise3.scala" />
+        <option value="$PROJECT_DIR$/src/clase2/exercise2.scala" />
+        <option value="$PROJECT_DIR$/src/clase2/exercise3.scala" />
+        <option value="$PROJECT_DIR$/src/clase2/exercise4.scala" />
       </list>
     </option>
   </component>
@@ -99,6 +137,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -121,12 +160,6 @@
               <item name="Scala-exercices" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scala-exercices" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="clase1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scala-exercices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scala-exercices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="clase3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -140,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566952204623" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566953130682" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -156,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise2">
+  <component name="RunManager" selected="Application.exercise1 (1)">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="clase1.Exercise2" />
       <module name="Scala-exercices" />
@@ -183,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiModulo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.MiModulo" />
+    <configuration name="exercise1 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="clase2.exercise1" />
       <module name="Scala-exercices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="clase2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MiModulo" />
       <item itemvalue="Application.Exercise2" />
       <item itemvalue="Application.Exercise3" />
       <item itemvalue="Application.exercise1" />
       <item itemvalue="Application.exercise2" />
+      <item itemvalue="Application.exercise1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise1 (1)" />
         <item itemvalue="Application.exercise2" />
         <item itemvalue="Application.exercise1" />
         <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.MiModulo" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +283,12 @@
       <option name="presentableId" value="Default" />
       <updated>1565742036772</updated>
       <workItem from="1565742038188" duration="2038000" />
-      <workItem from="1566949970868" duration="1864000" />
+      <workItem from="1566949970868" duration="2681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3902000" />
+    <option name="totallyTimeSpent" value="4719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -275,7 +308,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -340,10 +373,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/clase2/scriptFile.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/clase3/exercise2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clase3/exercise3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clase2/exercise1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clase2/exercise2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clase2/exercise3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clase2/exercise4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
